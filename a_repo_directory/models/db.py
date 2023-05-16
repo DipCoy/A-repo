@@ -13,3 +13,8 @@ class Pet:
     owner: User
     name: str
     age: int
+
+
+@dataclass
+class CommonChange:
+    change: str
