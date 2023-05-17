@@ -13,3 +13,7 @@ class Pet:
     owner: User
     name: str
     age: int
+
+
+class A:
+    ...
